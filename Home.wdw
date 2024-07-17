@@ -16,7 +16,23 @@ window :
   height : 450
   widthClient : 798
   heightClient : 418
- controls : []
+ controls :
+  -
+    name : btn_dev_vilani
+    identifier : 0x269724ca024973f5
+    internal_properties : CQAAAAkAAADY7AhPfOkNdPq27KmmfBlNHBlCDVF6rmhd3zSRB/LIJhUoWlk1ljSgMkAw5rxK0jcKWRAFVG+pj6TcnGHa9DGp5961pKWqWYaXA4ploWOVJeshmdBobQCs4lPjzHNO7MWjwmmCdR6JfBFAiSRQSukD2vhC5rwp+nLqvu/HvAtCe/bz8qLh96EpdNwPbZ5od8fbRUVHUDt0SNJvenqr2Hsnx3AivbEZldUBYGzwbWLqluxpmDIOruzzWX3+oT75ZEVGpq12A8CcG1TZQQeLCP5B5GW3m/B75/Pig2bJ8Xp/ffmoSpYWNoiTsbniA/VHrJjeVRjD0uvpLHMkcsqqefjk+uzZqbzqnfUVQnTVInBlnZod2LU2eiu9puXaOhcbqF0ft5Xg+kgEgrSqVIVVzzsxEhtJvvpvLLgDX1bU8HNT4OtRo8bVyXrhxtuzphSiF8k8AeJ+796VRN6+XNAUdrP+hPv6VAgG137U48cf4qWETnFE/ZeXLzSO27R7qV+VQtFlBFZDOO+HTT8BY+R6uHhI0mx9NYWHxbbjnzGzk/tA76h1hN3MSUpBichXyS0H1m1O6hIrX0ud6t6I8jLEWMy5ociabSu0UQjWhVexJ0hlPZ0YmWCvi7t84ulZjqbinHeKu6onCAjoESZb65UTT8QttgnJaYJdOxzJALiz/RSXPcDnS7xF9W06+xo3JfyUNKARaZRxAK22DWYUkgB8P5stwiOlI1gR9F1qKb+HtrhRTJ9iMoUzs7VCOuk7Zy1fmMw4G913OJoj0gbf+sVUnIqFy+EwmewXRLe49kedXxIvr4ZpiY5wGx+1EP3W3ou5vhZZ91RuO0hNoAu/LR/klY8GV5+PmW+MqjgPdk122qnNUg==
+    properties :
+     x : 664
+     y : 22
+     width : 106
+     height : 31
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        type : 161
+        enabled : false
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221

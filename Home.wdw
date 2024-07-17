@@ -308,6 +308,22 @@ window :
         type : 161
         enabled : false
   -
+    name : btn_developer
+    identifier : 0x26972c0205eca9f1
+    internal_properties : CQAAAAkAAADk2eXToo7g5e/xexgPDaBQPVl2KJKejsqYGauu/aIXXzOjS1ISoSinkdQh8krj2sWgGVsVhl3J8tNpz2a/Bjwdofxuh12P4ElH+Dd6DA71d250zqUN8BWxS8hjdwJ7t+L4g2TECi/8v9CvspqOe8rAt9Rhtu/KWuIO4ppkjnbKyKOQnbBeIL3jLKV2TcaHxyWKO4psmdKNzp7k7FEeeHMog3HYzSVRj449iR8IDlkXljarkgrQX0cAo9uzcvM03hxe4dMJC5LJDfaC+hoM27zF6kbUZ5KAFzYYYxoAdzfMFLtWdMNQUFbdV93RgKHiQll/7EDmexZ87WxNgcpgBQS5lD3KV0hzhLHLDNNvWqEhGFd9L/Twq0jW/I/MH/A6XLI3iX6JnW1zWWq7qSn2OmRNcAFXJO5x4U2zCD/8jo+J+5AbUIw9RCxHOMUaHz0qk/9WG4sHaHE6h+O7z9WX4yBvlSKAJulpnGvVLLxSU2xrNXcw51198dQyUaK3ZZHbSIJQ166xRZN7vceAACdvhCDCrlBZkckz02Z9/al62YQ7hBtg42x0pa4hZRSvMV5CfajHU4emYkie79exh4UZiyN8nEMJ9uzn9rGJyCyU+sXubqy/PM28klJr5eSyBdvdm7JJioWcNeNF0se0rvq2fO/o885wyhPIuJlMQ1fcJusOWmGQ8gXenfBXzo3gbIXb3/0IZolEE7C1HEtB0cjlSU64b+DeYv+E6WjZgPb4qMZWfXI9JaoYzmqVTfzC+LYWn6FMpGa2r1vaPlJTAPK5fVLKPQH/9lOkSZJnKkwrSo0FvIxKWsJzjpsZPs7vyXa2h9zzkQXwRWYG9fmwxY/qSEem0YHnCT8MwDZvBq80unDhZg==
+    properties :
+     x : 656
+     y : 92
+     width : 106
+     height : 31
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        type : 161
+        enabled : false
+  -
     name : btn_vilani
     identifier : 0x26972bb5052b7a2c
     internal_properties : CQAAAAkAAADzPzGdjSSUw38PaablV9Y+7dLlmIptFwgrEPPgilOl6GA6xb+bk1HXf9c12bntGf5ZdZ6c0ZobhMUrVuA/Ya4oPCGWoiq6YvlWdAEpX/lNngRLCyP8yWCaXaE3GZ7NV+I8pqvZtuifu4sX4RX4E/lfjceX9P3K2o4D8aaq+/Gfa4MJ907AbCh/ZG29wA4TSl/qPWbhxB+SDKfeQ88CXnOdtnc40UeJb1Dp7uXTVGBjYqIJP2xL31y4ToXDV4NTAvPTLB8tzYLOeyDUdtASXWijq6k0HcLpxUBG9y5jtT09jG+HFaYYyLd7q7kuVbA5ce4Cj8wy+q38eIhjHVHGdeCaHS2jraagmj6TW9mwJKAZxtewHuNkfBRXRdKgcuBmNxWzpOhnMbjiCSxfjH+h4bRqCxZlAt+WlAF8loiSlVCnK9Or4Gsl9nEhco1eZs530LHCklgMTI2EVxF5axHMStZFbfp20ooAzXthXMxpZ7mgd6mgfN4RpMt0u5ctHfIaYozgF4foDZ/6fNuOyQa+Ror9KETPQ4qEIAUT51XX6pW/h9lBTX1cniO+ZAwXadPMxGuYC78m7QObtCS2u2F/BfrGjhMl6nARWGNfUaHbY7SG1WJJoyh8INxi4Bi2zvrdd4hBnMbNm0swU8zzTdeteYpSZg9JTViy8FZtk7Qg4TbZX0TmQHfV7UwfVqwJKUy8laNJiMDgR0L6VicjqRi9kZ1FLYXvPWWH4v5jSSisOfAx/uNEAMXJ8ffdP3py/McP1m+W2613isGTsbbuYU9eLUqylVCW2OwR6w1blyNKE0aJ0vRIo7vkshUEjAgsDhkqWWTJmjDX03wVWS/vA3EslYMMH7cts4H6cn5bSJkCIXL6fQ==

@@ -1,3 +1,7 @@
 //MO001-002.TXT ANA00001 TO ANA00002
 Pessoas		TAR	204	new record size: 204
+<<<<<<< HEAD
 Pessoas	dev_vilani	RUB+		dev_vilani is a new item
+=======
+Pessoas	dev_Developer	RUB+		dev_Developer is a new item
+>>>>>>> Developer
